@@ -1,0 +1,12 @@
+.back_toLogin_ui{
+
+    background-color: #ccc;
+    padding:0.8rem;
+    border-radius:4px;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    gap:0.2rem;
+    cursor:pointer;
+    
+}

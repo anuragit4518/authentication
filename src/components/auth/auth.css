@@ -1,0 +1,62 @@
+.auth_main{
+
+    position:absolute;
+    top:50%;
+    left:50%;
+    width:360px;
+    padding:1rem;
+    border-radius:6px;
+
+
+}
+.auth_item{
+    display: flex;
+    flex-direction: column;
+
+}
+.auth_item label{
+
+    color:grey;
+    font-size:14px;
+}
+.auth_container{
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+    
+}
+.auth_options{
+
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    padding:1rem 0;
+    font-size:14px;
+}
+.auth_options a{
+    text-decoration: none;
+}
+.auth_title{
+    font-size: 14px;;
+}
+
+.otp_input_container{
+
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    gap: 1rem;
+}
+.otp_input{
+    text-align:center;
+    font-weight:600;
+}
+.timer{
+    color:#165ef0;
+    font-size:14px;
+    padding:1rem 0;
+}
+.ui_button{
+    margin:19px -3px;
+    padding:30px;
+}
